@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="registration_name">Registration</string>
+    <string name="name">Name</string>
+    <string name="Last_name">Last Name</string>
+    <string name="dni">DNI</string>
+    <string name="company">Company</string>
+    <string name="phone">Phone</string>
+
+
+</resources>
